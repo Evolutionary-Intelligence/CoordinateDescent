@@ -8,3 +8,4 @@ This is a (actively updated) paper list of **Coordinate Descent (CD)**, aka *Alt
   * Hildreth, C., 1954. Point estimates of ordinates of concave functions. Journal of the American Statistical Association, 49(267), pp.598-619.
   * Freund, R.J., 1956. The introduction of risk into a programming model. Econometrica: Journal of the Econometric Society, pp.253-263.
 * d'Esopo, D.A., 1959. A convex programming procedure. Naval Research Logistics Quarterly, 6(1), pp.33-42.
+  * "Coordinate minimization transformation"
