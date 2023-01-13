@@ -9,5 +9,5 @@ Note that sometimes CD is named as *coordinatewise minimization*.
   * "Another modification that might be worth considering would be to draw random numbers at each stage to determine the sequence in which the elementary operators would be applied."
   * Hildreth, C., 1954. Point estimates of ordinates of concave functions. Journal of the American Statistical Association, 49(267), pp.598-619.
   * Freund, R.J., 1956. The introduction of risk into a programming model. Econometrica: Journal of the Econometric Society, pp.253-263.
-* d'Esopo, D.A., 1959. A convex programming procedure. Naval Research Logistics Quarterly, 6(1), pp.33-42.
+* d'Esopo, D.A., 1959. A convex programming procedure. Naval Research Logistics Quarterly, 6(1), pp.33-42. [ Stanford Research Institue ]
   * "Coordinate minimization transformation"
