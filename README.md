@@ -11,3 +11,4 @@ Note that sometimes CD is named as *coordinatewise minimization*.
   * Freund, R.J., 1956. The introduction of risk into a programming model. Econometrica: Journal of the Econometric Society, pp.253-263.
 * d'Esopo, D.A., 1959. A convex programming procedure. Naval Research Logistics Quarterly, 6(1), pp.33-42. [ Stanford Research Institue ]
   * "Coordinate minimization transformation"
+* Shi, H.J.M., Tu, S., Xu, Y. and Yin, W., 2016. A primer on coordinate descent algorithms. arXiv preprint arXiv:1610.00040.
