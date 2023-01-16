@@ -11,4 +11,5 @@ Note that sometimes CD is named as *coordinatewise minimization* and **Block Coo
   * Freund, R.J., 1956. The introduction of risk into a programming model. Econometrica: Journal of the Econometric Society, pp.253-263.
 * d'Esopo, D.A., 1959. A convex programming procedure. Naval Research Logistics Quarterly, 6(1), pp.33-42. [ Stanford Research Institue ]
   * "Coordinate minimization transformation"
+* Tseng, P. and Yun, S., 2009. A coordinate gradient descent method for nonsmooth separable minimization. Mathematical Programming, 117(1), pp.387-423. [ University of Washington ]
 * Shi, H.J.M., Tu, S., Xu, Y. and Yin, W., 2016. A primer on coordinate descent algorithms. arXiv preprint arXiv:1610.00040. [ Northwestern University + University of California, Los Angeles ]
