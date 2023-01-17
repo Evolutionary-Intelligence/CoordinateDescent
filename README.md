@@ -14,6 +14,7 @@ Note that sometimes CD is named as *coordinatewise minimization* and **Block Coo
 * Zadeh, N., 1970. Note—A note on the cyclic coordinate ascent Method. Management Science, 16(9), pp.642-644. [ University of California, Berkeley ]
 * Powell, M.J., 1973. On search directions for minimization algorithms. Mathematical Programming, 4(1), pp.193-201. [ Atomic Energy Research Establishment ]
 * Tseng, P. and Yun, S., 2009. A coordinate gradient descent method for nonsmooth separable minimization. Mathematical Programming, 117(1), pp.387-423. [ University of Washington ]
+* Nesterov, Y., 2012. Efficiency of coordinate descent methods on huge-scale optimization problems. SIAM Journal on Optimization, 22(2), pp.341-362.
 * Shi, H.J.M., Tu, S., Xu, Y. and Yin, W., 2016. A primer on coordinate descent algorithms. arXiv preprint arXiv:1610.00040. [ Northwestern University + University of California, Los Angeles ]
 
 ******* *** *******
