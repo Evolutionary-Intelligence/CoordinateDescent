@@ -15,3 +15,7 @@ Note that sometimes CD is named as *coordinatewise minimization* and **Block Coo
 * Powell, M.J., 1973. On search directions for minimization algorithms. Mathematical Programming, 4(1), pp.193-201. [ Atomic Energy Research Establishment ]
 * Tseng, P. and Yun, S., 2009. A coordinate gradient descent method for nonsmooth separable minimization. Mathematical Programming, 117(1), pp.387-423. [ University of Washington ]
 * Shi, H.J.M., Tu, S., Xu, Y. and Yin, W., 2016. A primer on coordinate descent algorithms. arXiv preprint arXiv:1610.00040. [ Northwestern University + University of California, Los Angeles ]
+
+******* *** *******
+
+Moré, J.J., Garbow, B.S. and Hillstrom, K.E., 1981. Testing unconstrained optimization software. ACM Transactions on Mathematical Software, 7(1), pp.17-41.
