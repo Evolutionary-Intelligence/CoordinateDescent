@@ -18,4 +18,5 @@ Note that sometimes CD is named as *coordinatewise minimization* and **Block Coo
 
 ******* *** *******
 
-Moré, J.J., Garbow, B.S. and Hillstrom, K.E., 1981. Testing unconstrained optimization software. ACM Transactions on Mathematical Software, 7(1), pp.17-41.
+* Moré, J.J., Garbow, B.S. and Hillstrom, K.E., 1981. Testing unconstrained optimization software. ACM Transactions on Mathematical Software, 7(1), pp.17-41.
+  * "Almost all of the test functions have appeared in the optimization literature are nonlinear least squares."
