@@ -13,6 +13,7 @@ Note that sometimes CD is named as *coordinatewise minimization* and **Block Coo
   * "Coordinate minimization transformation"
 * Zadeh, N., 1970. Note—A note on the cyclic coordinate ascent Method. Management Science, 16(9), pp.642-644. [ University of California, Berkeley ]
 * Powell, M.J., 1973. On search directions for minimization algorithms. Mathematical Programming, 4(1), pp.193-201. [ Atomic Energy Research Establishment ]
+* Luo, Z.Q. and Tseng, P., 1992. On the convergence of the coordinate descent method for convex differentiable minimization. Journal of Optimization Theory and Applications, 72(1), pp.7-35. [ McMaster University + Massachusetts Institute of Technology ]
 * Tseng, P. and Yun, S., 2009. A coordinate gradient descent method for nonsmooth separable minimization. Mathematical Programming, 117(1), pp.387-423. [ University of Washington ]
 * Nesterov, Y., 2012. Efficiency of coordinate descent methods on huge-scale optimization problems. SIAM Journal on Optimization, 22(2), pp.341-362.
   * "The main advantage of these methods is the simplicity of each iteration, both in generating the search direction and in performing the update of variables. However, very soon it became clear that the coordinate descent methods can be criticized in several aspects."
