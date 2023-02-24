@@ -17,6 +17,7 @@ Note that sometimes CD is named as *coordinatewise minimization*/*coordinate rel
 * Tseng, P. and Yun, S., 2009. A coordinate gradient descent method for nonsmooth separable minimization. Mathematical Programming, 117(1), pp.387-423. [ University of Washington ]
 * Nesterov, Y., 2012. Efficiency of coordinate descent methods on huge-scale optimization problems. SIAM Journal on Optimization, 22(2), pp.341-362.
   * "The main advantage of these methods is the simplicity of each iteration, both in generating the search direction and in performing the update of variables. However, very soon it became clear that the coordinate descent methods can be criticized in several aspects."
+* Wright, S.J., 2015. Coordinate descent algorithms. Mathematical Programming, 151(1), pp.3-34.
 * Shi, H.J.M., Tu, S., Xu, Y. and Yin, W., 2016. A primer on coordinate descent algorithms. arXiv preprint arXiv:1610.00040. [ Northwestern University + University of California, Los Angeles ]
 * Richtárik, P. and Takáč, M., 2016. Distributed coordinate descent method for learning with big data. Journal of Machine Learning Research, 17(1), pp.2657-2681. [ University of Edinburgh + Lehigh University ]
 
